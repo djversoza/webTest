@@ -1,0 +1,26 @@
+/*==== Fonts ====*/
+@font-face {
+  font-family: takraf3d;
+  src: url(fonts/Takraf-3d.otf);
+}
+
+@font-face {
+  font-family: takrafVEB;
+  src: url(fonts/Takraf-VEB.otf);
+}
+
+
+/*===== Styles =====*/
+
+.titleBox {
+  margin-top: 20%;
+}
+
+.myTitle {
+  text-align: center;
+  font-family: takrafVEB;
+  font-size: 40px;
+  color: blue;
+  width: 100%;
+  margin: 0px auto;
+}
