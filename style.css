@@ -14,13 +14,27 @@
 
 .titleBox {
   margin-top: 20%;
+  padding-top: 30px;
 }
 
 .myTitle {
   text-align: center;
   font-family: takrafVEB;
   font-size: 40px;
-  color: blue;
+  color: white;
   width: 100%;
   margin: 0px auto;
+  text-shadow: 4px 4px black;
+}
+
+.titleDesc {
+  position: relative;
+  padding-top: 30px;
+  text-align: center;
+  font-family: takrafVEB;
+  font-size: 25px;
+  color: white;
+  width: 100%;
+  margin: 0px auto;
+  text-shadow: 3px 3px black;
 }
